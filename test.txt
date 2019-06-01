@@ -2,12 +2,11 @@
   <head>
   </head>
   <body>
-    hi there  
+    hi there !
     <script>
       function test() {
         window.location = '/test';
       }
     </script>
-    hi
   </body>
 </html>
